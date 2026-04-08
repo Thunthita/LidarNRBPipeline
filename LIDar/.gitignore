@@ -1,6 +1,8 @@
 cat > .gitignore << 'EOF'
-LIDar/RawFile/*
-!LIDar/RawFile/AfterPulse.csv
-!LIDar/RawFile/05-01-2026-DATfile/
-!LIDar/RawFile/05-01-2026-DATfile/*
+RawFile/*
+!RawFile/AfterPulse.csv
+!RawFile/05-01-2026-DATfile/
+!RawFile/05-01-2026-DATfile/*
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 EOF
