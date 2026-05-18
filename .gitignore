@@ -1,3 +1,12 @@
 **/.ipynb_checkpoints/
 **/MiniMPL_*.csv
 LIDar/RawFile/
+
+# Output folders — keep only one example timestamp
+LIDar/src/OutputPictCSV/
+!LIDar/src/OutputPictCSV/02-02-2026-0005/
+!LIDar/src/OutputPictCSV/02-02-2026-0005/**
+
+LIDar/src/Pict/
+!LIDar/src/Pict/02-02-2026-0005/
+!LIDar/src/Pict/02-02-2026-0005/**
