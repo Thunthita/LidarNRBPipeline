@@ -11,3 +11,8 @@ LIDar/src/OutputPictCSV/
 LIDar/src/Pict/
 !LIDar/src/Pict/02-02-2026-0005/
 !LIDar/src/Pict/02-02-2026-0005/**
+
+# csvfiles — keep only 05-01-2026 as example
+LIDar/csvfiles/
+!LIDar/csvfiles/05-01-2026/
+!LIDar/csvfiles/05-01-2026/**
